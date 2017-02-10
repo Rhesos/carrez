@@ -1,0 +1,15 @@
+{
+	"title": "leboncoin",
+	"type": "object",
+	"properties": {
+		"price" : "integer",
+		"type" : "String",
+		"city" : "String",
+		"postalCode" : "integer",
+		"surface" : "integer",
+		"rooms" : "integer",
+		"GES" : "char",
+		"energyClass" : "char",
+		"description" : "String"
+	}
+}

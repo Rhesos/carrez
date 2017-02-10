@@ -1,0 +1,39 @@
+body{
+    height:100%;
+    width: 100%;
+    /*position: relative;*/
+    float: left;
+    /*margin: 0 auto;*/
+    background-color: #E6F6FA;}
+
+
+h1{
+    margin-top: -10px;
+    color:#34B1F5;
+    font-family: "h1Font";
+    font-size: 280%;
+}
+
+textarea{
+    resize: none;
+}
+
+p{
+padding:3px 0 20px 3px;
+}
+
+form{
+    /*margin-bottom: 20px;*/
+}
+
+.formButton:hover{
+    background-color: #67C5DA;
+    color: white;
+}
+
+input:hover{
+    background-color: #D9FBFD;
+}
+input:focus{
+    background-color: #B0F9FD;
+}

@@ -1,0 +1,11 @@
+{
+	"title": "meilleursagents",
+	"type": "object",
+	"properties": {
+		"type" : "String",
+		"city" : "String",
+		"postalCode" : "integer",
+		"m2price" : "integer",
+		"deal" : "String"
+	}
+}

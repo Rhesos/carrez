@@ -1,0 +1,7 @@
+-user search a home on leboncoin and find one
+-user sends url to server
+-server fulfills the leboncoin.json file
+-server looks on meilleursagents with the data stored from leboncoin
+-server fulfills the meilleursagent.json
+-we compute the price it should cost with the price/m² data
+-we deduce if its a good deal or not
